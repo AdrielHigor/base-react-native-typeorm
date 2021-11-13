@@ -1,0 +1,18 @@
+{
+  "colors": {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "background_color": "#F6F6F6",
+    "default_text_light": "#FFFFFF",
+    "default_text_dark": "#000000",
+    "default_gray": "#8C8C8C",
+    "default_gray_disabled_text": "#B5B5B5",
+    "default_gray_border": "#707070"
+  },
+  "fonts": {
+    "regular": "Poppins-Regular",
+    "medium": "Poppins-Medium",
+    "semiBold": "Poppins-SemiBold",
+    "bold": "Poppins-Bold"
+  }
+}
