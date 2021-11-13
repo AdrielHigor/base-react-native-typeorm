@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface moto_bike_mobileTests : XCTestCase
+@interface base_react_native_typeormTests : XCTestCase
 
 @end
 
-@implementation moto_bike_mobileTests
+@implementation base_react_native_typeormTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

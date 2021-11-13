@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "moto_bike_mobile.app"
-               BlueprintName = "moto_bike_mobile"
-               ReferencedContainer = "container:moto_bike_mobile.xcodeproj">
+               BuildableName = "base_react_native_typeorm.app"
+               BlueprintName = "base_react_native_typeorm"
+               ReferencedContainer = "container:base_react_native_typeorm.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "moto_bike_mobileTests.xctest"
-               BlueprintName = "moto_bike_mobileTests"
-               ReferencedContainer = "container:moto_bike_mobile.xcodeproj">
+               BuildableName = "base_react_native_typeormTests.xctest"
+               BlueprintName = "base_react_native_typeormTests"
+               ReferencedContainer = "container:base_react_native_typeorm.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "moto_bike_mobile.app"
-            BlueprintName = "moto_bike_mobile"
-            ReferencedContainer = "container:moto_bike_mobile.xcodeproj">
+            BuildableName = "base_react_native_typeorm.app"
+            BlueprintName = "base_react_native_typeorm"
+            ReferencedContainer = "container:base_react_native_typeorm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "moto_bike_mobile.app"
-            BlueprintName = "moto_bike_mobile"
-            ReferencedContainer = "container:moto_bike_mobile.xcodeproj">
+            BuildableName = "base_react_native_typeorm.app"
+            BlueprintName = "base_react_native_typeorm"
+            ReferencedContainer = "container:base_react_native_typeorm.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -16,9 +16,3 @@ export const Title = styled.Text`
   color: ${colors.default_text_dark};
   font-family: ${fonts.regular};
 `;
-
-export const Button = styled.TouchableOpacity`
-  background-color: ${colors.black};
-  width: ${Window.widthScale(0.5)}px;
-  height: ${Window.heightScale(0.2)}px;
-`;

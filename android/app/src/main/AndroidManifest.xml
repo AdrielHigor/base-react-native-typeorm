@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.moto_bike_mobile">
+  package="com.base_react_native_typeorm">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

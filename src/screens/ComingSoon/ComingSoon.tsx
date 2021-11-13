@@ -6,7 +6,6 @@ import * as S from './ComingSoon.style';
 const ComingSoon = () => (
   <S.Container>
     <S.Title>EM BREVE</S.Title>
-    <S.Button onPress={() => navigationService.back()} />
   </S.Container>
 );
 

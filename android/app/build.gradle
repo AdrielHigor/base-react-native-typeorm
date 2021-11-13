@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.moto_bike_mobile"
+        applicationId "com.base_react_native_typeorm"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
